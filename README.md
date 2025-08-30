@@ -1,6 +1,6 @@
 # **动物识别系统与动物认识游戏**
 
-<img src="./output/pic/cover.jpg" width="500" style="float: left; margin-right: 15px;" />
+<img src="./output/pic/cover.jpg" width="300" style="float: left; margin-right: 15px;" />
 
 [![DOI](https://img.shields.io/badge/DOI-10.57760/sciencedb.29221-blue.svg)](https://doi.org/10.57760/sciencedb.29221)
 
