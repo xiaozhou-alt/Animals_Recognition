@@ -1,21 +1,21 @@
 # **动物识别系统与动物认识游戏**
 
-<img src="./output/pic/cover.jpg" width="300" style="float: left; margin-right: 15px;" />
+<img src="./output/pic/cover.jpg" width="500" style="float: left; margin-right: 15px;" />
 
-[![DOI](https://img.shields.io/badge/DOI-10.57760/sciencedb.29221-blue.svg)](https://doi.org/10.57760/sciencedb.29221)
+[![DOI](https://img.shields.io/badge/DOI-10.57760/sciencedb.29221-blue.svg)](https://doi.org/10.57760/sciencedb.29221)[![Model](https://img.shields.io/badge/Model-EfficientNetB6-green.svg)](https://pytorch.org/hub/nvidia_deeplearningexamples_efficientnet/)[![DOI](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.mit.edu/)
 
 ---
 
-## 目录
+## 📋目录
 
-- [项目介绍](#项目介绍)
-- [数据集说明](#数据集说明)
-- [文件夹结构](#文件夹结构)
-- [模型架构实现](#模型架构实现)
-- [快速开始](#快速开始)
-- [结果展示](#结果展示)
+- 🌟[项目介绍](#项目介绍)
+- 📊[数据集说明](#数据集说明)
+- 📁[文件夹结构](#文件夹结构)
+- 🧠[模型架构实现](#模型架构实现)
+- 🚀[快速开始](#快速开始)
+- 📈[结果展示](#结果展示)
 
-
+---
 
 ## 项目介绍
 
@@ -304,4 +304,4 @@ python demo.py
 ### 应用界面展示
 
 <video src="./demo.mp4"></video>
-GitHub可能无法正常显示缩略图，请查看demo.mp4
+💡 GitHub可能无法正常显示缩略图，请查看demo.mp4
